@@ -110,7 +110,6 @@ pip install -r requirements.txt
 MQTT overview — What is MQTT? and Architecture
 -----------------------------------------------
 What is MQTT?
-^^^^^^^^^^^^^
 MQTT (Message Queuing Telemetry Transport) is a lightweight publish/subscribe messaging protocol designed for low-bandwidth, high-latency, or unreliable networks. It's widely used in IoT and telemetry because of its small footprint, simplicity, and built-in features like topic-based routing, quality-of-service (QoS) levels, retained messages, and Last Will and Testament (LWT).
 
 Key MQTT concepts used in this demo:
