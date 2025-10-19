@@ -1,0 +1,4 @@
+date,reservoir_id,observations,taf_mean,taf_min,taf_max
+2024-09-29,SHASTA,1,2720.0,2720.0,2720.0
+2024-09-29,OROVILLE,1,2000.0,2000.0,2000.0
+2024-09-29,SONOMA,1,192.0,192.0,192.0
